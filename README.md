@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey"
     alt="adam-pw" /> 
   </p>
 
