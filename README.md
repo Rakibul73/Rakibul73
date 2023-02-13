@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
-<h3 align="center">Student at PSTU, Bangladesh🌟.</h3>
+<h3 align="center">Student of CSE at PSTU, Bangladesh🌟.</h3>
 
 <br>
 
