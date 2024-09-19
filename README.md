@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>
 <h3 align="center">Student of CSE at PSTU, Bangladesh🌟.</h3>
+<p align="center">
+  <a href="https://github.com/Rakibul73/Rakibul73/blob/main/Resume_Of_Md_Rakibul_Islam.pdf" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume Download" />
+  </a>
+</p>
+
 
 <br>
-
 
 
 <br>
