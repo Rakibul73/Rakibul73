@@ -6,7 +6,6 @@
   </a>
 </p>
 
-https://drive.google.com/file/d/1c5rzJ8NRaDfcTlDvyRlQbzDLTifpKuL-/view?usp=sharing
 <br>
 
 
