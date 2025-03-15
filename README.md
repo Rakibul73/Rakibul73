@@ -14,7 +14,7 @@
 <p><img align="right" src="https://github.com/Rakibul73/Rakibul73/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Advance JavaScript
+- 🌱 I’m currently learning Docker
 
 - 📫 How to reach me **rakib29185@gmail.com**
 
